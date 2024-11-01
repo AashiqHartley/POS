@@ -167,7 +167,7 @@ public class SalesGuii extends javax.swing.JFrame {
 
         setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
 
-        jPanel1.setBackground(new java.awt.Color(0, 102, 255));
+        jPanel1.setBackground(new java.awt.Color(255, 102, 0));
 
         Exit_button.setFont(new java.awt.Font("Dialog", 1, 14)); // NOI18N
         Exit_button.setText("EXIT");

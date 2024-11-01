@@ -250,7 +250,7 @@ private void exportPaymentData(File directory, String date) {
 
         setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
 
-        jPanel1.setBackground(new java.awt.Color(0, 102, 255));
+        jPanel1.setBackground(new java.awt.Color(255, 102, 0));
 
         ExitButton.setBackground(new java.awt.Color(255, 255, 255));
         ExitButton.setForeground(new java.awt.Color(0, 0, 0));
@@ -318,9 +318,8 @@ private void exportPaymentData(File directory, String date) {
         });
         jPanel2.add(Export_And_Sales_button, new org.netbeans.lib.awtextra.AbsoluteConstraints(980, 150, -1, -1));
 
-        clear_Data_Base_Button.setBackground(new java.awt.Color(0, 102, 255));
         clear_Data_Base_Button.setFont(new java.awt.Font("Dialog", 0, 14)); // NOI18N
-        clear_Data_Base_Button.setForeground(new java.awt.Color(0, 0, 0));
+        clear_Data_Base_Button.setForeground(new java.awt.Color(255, 255, 255));
         clear_Data_Base_Button.setText("Clear data base");
         clear_Data_Base_Button.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {

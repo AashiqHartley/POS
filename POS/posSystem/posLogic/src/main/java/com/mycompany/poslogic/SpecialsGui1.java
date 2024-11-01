@@ -215,7 +215,7 @@ public class SpecialsGui1 extends javax.swing.JFrame {
             MainProductsTable.getColumnModel().getColumn(2).setMaxWidth(100);
         }
 
-        jPanel1.setBackground(new java.awt.Color(0, 102, 255));
+        jPanel1.setBackground(new java.awt.Color(255, 102, 0));
 
         ExitButtonActionPerformed.setText("Exit");
         ExitButtonActionPerformed.addActionListener(new java.awt.event.ActionListener() {

@@ -228,7 +228,7 @@ public class StockGUI extends javax.swing.JFrame {
 
         setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
 
-        jPanel1.setBackground(new java.awt.Color(0, 102, 225));
+        jPanel1.setBackground(new java.awt.Color(255, 102, 0));
         jPanel1.setToolTipText("");
 
         Exit_button.setText("Exit");
